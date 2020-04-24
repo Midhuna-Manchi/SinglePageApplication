@@ -120,7 +120,7 @@ Below steps are to followed in 'Windows 10' for bringing up the single-page web 
 
 **Step 5:**  Run the following command: ```npm install --save react-router-dom```
 
-**Step 6:**  Run the following command: ```git clone https://github.com/MidhunaManchi/CS612-Assignment4.git```
+**Step 6:**  Run the following command: ```git clone https://github.com/mm8037/SinglePageApplication.git```
 
 **Step 7:**  Run the following command: ```Enter Git Username & Password, if prompted```
 
