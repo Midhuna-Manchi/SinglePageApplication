@@ -1,0 +1,21 @@
+.App {
+  width: 99%;
+  margin: 0 auto;
+  }
+
+.App-link {
+  color: #61dafb;
+}
+
+a{
+  color:#3498DB;
+}
+
+
+a:hover{
+  color:#27AE60;
+}
+
+a:active{
+  color:#E74C3C;
+}

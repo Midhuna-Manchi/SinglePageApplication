@@ -1,0 +1,46 @@
+.navbar{
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex:1;
+  padding: 10px;
+  background-color: #EBF5FB;
+
+}
+
+.link{
+display: block;
+margin: 0;
+padding: 0;
+margin:auto;
+}
+
+.home{
+  background-color:#ffffff;
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+  display: block;
+  font-size:18px;
+}
+
+.header{
+  padding:0;
+  margin:0;
+  display:inline;
+}
+
+h2{
+  text-align: center;
+  text-decoration: none;
+}
+
+.date{
+font-style: italic;
+font-size: 15px;
+color: #2874A6;
+}
+
+.body ul li{
+font-size: 14px;
+padding:5px;
+}
